@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyListView2</string>
+    <string-array name="major_array">
+        <item>;วิศวกรรมซอฟต์แวร์</item>
+        <item>;วิศวกรรมคอมพิวเตอร์</item>
+        <item>;วิทยาการคอมพิวเตอร์</item>
+        <item>;คอมพิวเตอร์ธุรกิจ</item>
+        <item>;เทคโนโลสาระสนเทศ</item>
+        <item>;การจัดการธุระกิจดิจิทัล</item>
+        <item>;เทคโนโลยีคอมิพวเตอร์อุสาหกรรม</item>
+    </string-array>
+</resources>
